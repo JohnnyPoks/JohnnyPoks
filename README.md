@@ -107,15 +107,26 @@ I've shipped products solo and as part of cross-functional teams at companies li
 
 ## 🚀 Selected Projects (Public)
 
+### ⭐ Featured
+
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**maizai**](https://github.com/JohnnyPoks/maizai) | AI-powered maize-disease detection — **on-device TFLite** inference with out-of-distribution (Not-Maize) rejection, **MQTT** IoT telemetry, offline sync & PWA — [Live](https://maizai.vercel.app) | Expo/React Native · Next.js · Prisma · TFLite · MQTT |
+| [**DermaScan**](https://github.com/JohnnyPoks/dermascan) | Skin-lesion image classifier with **Grad-CAM explainability** — [Live](https://pokamjohn-dermascan.hf.space) | TensorFlow/Keras · Gradio · Hugging Face |
+| [**Image Lab**](https://github.com/JohnnyPoks/image-lab) | Image generation + enhancement/upscaling (Real-ESRGAN, GFPGAN) — [Live](https://huggingface.co/spaces/PokamJohn/image-lab) | PyTorch · Gradio · Hugging Face |
+
+### More
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**machine-learning-and-computer-vision**](https://github.com/JohnnyPoks/machine-learning-and-computer-vision) | Face verification (ResNet18 + LFW, ROC/AUC/EER), preprocessing & feature engineering | Python · PyTorch · scikit-learn · Colab |
 | [**E-Com-Website**](https://github.com/JohnnyPoks/E-Com-Website) | Full-stack e-commerce — auth, product listings, cart, checkout | React · Express · Django REST |
+| [**text-normalization-fst**](https://github.com/JohnnyPoks/text-normalization-fst) | FST text normalization — 0% WER on test cases | Python · Pynini |
+| [**Simple-React-Dashboard**](https://github.com/JohnnyPoks/Simple-React-Dashboard) | Admin dashboard — Redux-Saga, glass-morphism UI — [Live Demo](https://simple-react-dashboard.web.app) | React · TypeScript · Tailwind |
 | [**Chat-App**](https://github.com/JohnnyPoks/Chat-App) | Real-time messaging with WebSocket | React · Node.js · WebSocket |
 | [**Chat-Bot**](https://github.com/JohnnyPoks/Chat-Bot) | Conversational AI interface | React · Express · Google GenAI |
 | [**EMS-QR-code**](https://github.com/JohnnyPoks/EMS-QR-code) | Event management with QR code check-in | TypeScript · React |
-| [**text-normalization-fst**](https://github.com/JohnnyPoks/text-normalization-fst) | FST text normalization — 0% WER on test cases | Python · Pynini |
 | [**Spam-Email-Filters-**](https://github.com/JohnnyPoks/Spam-Email-Filters-) | Spam classifier (Random Forest + SVM) | Python · scikit-learn · Jupyter |
-| [**Simple-React-Dashboard**](https://github.com/JohnnyPoks/Simple-React-Dashboard) | Admin dashboard starter — [Live Demo](https://simple-react-dashboard.web.app) | React · TypeScript · Tailwind |
 
 ---
 

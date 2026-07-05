@@ -3,9 +3,9 @@
 
 # Pokam Ngouffo Tanekou
 
-**Software Engineer**
+**Full-Stack Software Engineer · AI / ML**
 
-Full-stack engineer shipping production systems from REST APIs and real-time pipelines to responsive frontends and mobile apps. Most of my work lives in private repositories; what you see here is a subset.
+I build production web & mobile apps end-to-end — and train the ML models that power them. From REST/real-time backends to React & React Native frontends, to on-device computer vision. Most of my work lives in private repos; this is a subset.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-johnnypoks.netlify.app-0A0A0A?style=flat-square&logo=netlify&logoColor=white)](https://johnnypoks.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-john--pokam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-pokam-75442a2a3)
@@ -17,9 +17,9 @@ Full-stack engineer shipping production systems from REST APIs and real-time pip
 
 ## 🧑‍💻 About
 
-I build and operate production-grade applications across e-commerce, education, fintech, health-tech, and automation. I'm comfortable owning the full stack designing database schemas, writing backend services, building responsive UIs, setting up CI/CD, and containerizing deployments.
+I'm a **full-stack engineer** who also does **machine learning**. On the product side I own the whole stack — database schemas, backend services, responsive React/Next.js UIs, React Native apps, CI/CD, and Docker deployments — across e-commerce, EdTech, fintech, health-tech, and automation. On the ML side I train and ship real models: on-device maize-disease detection (TFLite), a skin-lesion classifier with Grad-CAM explainability, image enhancement pipelines, and face-verification systems.
 
-I've shipped products solo and as part of cross-functional teams at companies like **Lambda**, **Markpedia**, **Klapeers**, and **Opuvia**. I write bilingual (EN/FR) documentation and runbooks, and I follow structured change-control and incident-response practices.
+I've shipped solo and in cross-functional teams at **Lambda**, **Markpedia**, **Klapeers**, **Opuvia**, and **Codexbase** — building everything from AWS Bedrock image-search pipelines to real-time chat & order-tracking systems. I write bilingual (EN/FR) documentation and runbooks and follow structured change-control practices.
 
 **Certifications:** Product Management Basics · Enterprise Design Thinking (Practitioner & Co-Creator) · Product-Led & Product Analytics · Enterprise Design Thinking Team Essentials for AI
 
@@ -27,55 +27,19 @@ I've shipped products solo and as part of cross-functional teams at companies li
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css&theme=dark" alt="Languages" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,threejs,nestjs&theme=dark" alt="stack row 1" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=express,django,fastapi,nodejs,postgres,mongodb,firebase,prisma&theme=dark" alt="stack row 2" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,supabase,pytorch,sklearn,tensorflow&theme=dark" alt="stack row 3" />
 </p>
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite&theme=dark" alt="Frontend" />
-</p>
-
-> React · Next.js · React Native · Expo · Three.js · Tailwind CSS · Radix UI / Shadcn · Framer Motion · Bootstrap · SCSS
-
-### Backend & Runtime
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nestjs,express,django,fastapi,nodejs,bun&theme=dark" alt="Backend" />
-</p>
-
-> NestJS · Express · Django / DRF · FastAPI · Node.js · Bun · Microservices · REST · WebSockets · OAuth2 / JWT
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis,sqlite,prisma&theme=dark" alt="Databases" />
-</p>
-
-> PostgreSQL · MongoDB · MySQL · Firebase / Firestore · Redis · SQLite · Prisma · Mongoose · Sequelize · pgvector
-
-### DevOps & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,supabase,linux&theme=dark" alt="DevOps" />
-</p>
-
-> Docker · GitHub Actions · GitLab CI · AWS (S3, SQS, Bedrock, EC2) · Firebase Hosting · Vercel · Supabase · CI/CD pipelines · Structured logging & telemetry
-
-### AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda&theme=dark" alt="AI/ML" />
-</p>
-
-> PyTorch · scikit-learn · LLM integration & prompt engineering (Google Gemini, AWS Bedrock) · Embeddings pipelines · NLP / Finite-State Transducers · Face verification (ResNet18 + LFW) · Jupyter / Google Colab
-
-### Integrations
-
-> Stripe · Celery + AWS SQS · Twilio · Cloudinary · Socket.io · Telegram API
+**Frontend** — React · Next.js · React Native / Expo · Three.js · Tailwind · shadcn/ui
+**Backend** — NestJS · Express · Django / DRF · FastAPI · REST · WebSockets · MQTT · JWT
+**Data** — PostgreSQL · MongoDB · MySQL · Firebase · Supabase · Prisma · Redis · pgvector
+**Cloud / DevOps** — Docker · GitHub Actions · AWS (S3 · SQS · Bedrock) · Vercel · Hugging Face
+**AI / ML** — PyTorch · TensorFlow/Keras · scikit-learn · on-device TFLite · Grad-CAM · LLMs (Gemini · Bedrock)
 
 ---
 

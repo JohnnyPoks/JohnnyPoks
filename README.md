@@ -1,11 +1,10 @@
-
 <div align="center">
 
 # Pokam Ngouffo Tanekou
 
-**Full-Stack Software Engineer · AI / ML**
+**Software Engineer**
 
-I build production web & mobile apps end-to-end — and train the ML models that power them. From REST/real-time backends to React & React Native frontends, to on-device computer vision. Most of my work lives in private repos; this is a subset.
+I build web and mobile apps, and I train the machine learning models that go inside them. My work runs from backend APIs and real time services to React and React Native frontends, with a good amount of computer vision along the way. A lot of what I build is private, so this page only shows part of it.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-johnnypoks.netlify.app-0A0A0A?style=flat-square&logo=netlify&logoColor=white)](https://johnnypoks.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-john--pokam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-pokam-75442a2a3)
@@ -17,114 +16,107 @@ I build production web & mobile apps end-to-end — and train the ML models that
 
 ## 🧑‍💻 About
 
-I'm a **full-stack engineer** who also does **machine learning**. On the product side I own the whole stack — database schemas, backend services, responsive React/Next.js UIs, React Native apps, CI/CD, and Docker deployments — across e-commerce, EdTech, fintech, health-tech, and automation. On the ML side I train and ship real models: on-device maize-disease detection (TFLite), a skin-lesion classifier with Grad-CAM explainability, image enhancement pipelines, and face-verification systems.
+I work as a full stack engineer and I also do machine learning. On the product side I handle the whole thing: database design, backend services, React and Next.js interfaces, React Native apps, CI/CD and Docker. I have done this in e-commerce, education, fintech, health tech and automation.
 
-I've shipped solo and in cross-functional teams at **Lambda**, **Markpedia**, **Klapeers**, **Opuvia**, and **Codexbase** — building everything from AWS Bedrock image-search pipelines to real-time chat & order-tracking systems. I write bilingual (EN/FR) documentation and runbooks and follow structured change-control practices.
+On the machine learning side I actually train and ship models, not just call an API. A few examples: an on device maize disease detector, a skin lesion classifier that shows the regions behind each prediction, image enhancement tools, and a face verification system.
 
-**Certifications:** Product Management Basics · Enterprise Design Thinking (Practitioner & Co-Creator) · Product-Led & Product Analytics · Enterprise Design Thinking Team Essentials for AI
+I have worked on my own and inside teams at Lambda, Markpedia, Klapeers, Opuvia and Codexbase. I am fluent in French and English, and I write my documentation in both.
+
+**Certifications:** Product Management Basics, Enterprise Design Thinking (Practitioner and Co-Creator), Product-Led and Product Analytics, Enterprise Design Thinking Team Essentials for AI.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,threejs,nestjs&theme=dark" alt="stack row 1" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,threejs&theme=dark" alt="frontend and languages" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=express,django,fastapi,nodejs,postgres,mongodb,firebase,prisma&theme=dark" alt="stack row 2" />
+  <img src="https://skillicons.dev/icons?i=nestjs,express,django,fastapi,nodejs,postgres,mongodb,firebase&theme=dark" alt="backend and databases" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,supabase,pytorch,sklearn,tensorflow&theme=dark" alt="stack row 3" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,vercel,pytorch,tensorflow,sklearn&theme=dark" alt="devops and ai" />
 </p>
 
-**Frontend** — React · Next.js · React Native / Expo · Three.js · Tailwind · shadcn/ui
-**Backend** — NestJS · Express · Django / DRF · FastAPI · REST · WebSockets · MQTT · JWT
-**Data** — PostgreSQL · MongoDB · MySQL · Firebase · Supabase · Prisma · Redis · pgvector
-**Cloud / DevOps** — Docker · GitHub Actions · AWS (S3 · SQS · Bedrock) · Vercel · Hugging Face
-**AI / ML** — PyTorch · TensorFlow/Keras · scikit-learn · on-device TFLite · Grad-CAM · LLMs (Gemini · Bedrock)
+**Frontend**
+React, Next.js, React Native, Expo, Three.js, Tailwind, shadcn/ui
+
+**Backend and Databases**
+NestJS, Express, Django, FastAPI, Node.js, REST and WebSockets, PostgreSQL, MongoDB, MySQL, Firebase, Prisma, Redis
+
+**DevOps and Cloud**
+Docker, GitHub Actions, AWS (S3, SQS, Bedrock), Vercel, Hugging Face, CI/CD
+
+**AI and Machine Learning**
+PyTorch, TensorFlow and Keras, scikit-learn, OpenCV, on device TFLite, transfer learning, Grad-CAM explainability, image enhancement (Real-ESRGAN and GFPGAN), NLP with finite state transducers, embeddings, LLM integration and prompt engineering (Gemini, AWS Bedrock), Jupyter and Colab
 
 ---
 
 ## 📊 GitHub Stats
 
-> These stats update automatically from my public GitHub activity. Most of my contributions are in private repositories and org-owned repos that don't appear here.
+> These update from my public activity. Most of my work is in private and organization repos that do not show up here.
 
 <div align="center">
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnnyPoks&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyPoks&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnnyPoks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyPoks&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height="170" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=JohnnyPoks&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JohnnyPoks&theme=github_dark" alt="Repos per Language" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JohnnyPoks&theme=github_dark" alt="Most Commit Language" height="180" />
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnnyPoks&theme=github_dark" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=JohnnyPoks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 </div>
 
 ---
 
-## 🚀 Selected Projects (Public)
+## 🚀 Selected Projects
 
-### ⭐ Featured
+A few public ones. Click through if you want to see the code and the stack.
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**maizai**](https://github.com/JohnnyPoks/maizai) | AI-powered maize-disease detection — **on-device TFLite** inference with out-of-distribution (Not-Maize) rejection, **MQTT** IoT telemetry, offline sync & PWA — [Live](https://maizai.vercel.app) | Expo/React Native · Next.js · Prisma · TFLite · MQTT |
-| [**DermaScan**](https://github.com/JohnnyPoks/dermascan) | Skin-lesion image classifier with **Grad-CAM explainability** — [Live](https://pokamjohn-dermascan.hf.space) | TensorFlow/Keras · Gradio · Hugging Face |
-| [**Image Lab**](https://github.com/JohnnyPoks/image-lab) | Image generation + enhancement/upscaling (Real-ESRGAN, GFPGAN) — [Live](https://huggingface.co/spaces/PokamJohn/image-lab) | PyTorch · Gradio · Hugging Face |
+**Featured**
 
-### More
+| Project | What it does |
+|---------|--------------|
+| [**maizai**](https://github.com/JohnnyPoks/maizai) | On device maize disease detection with a mobile app and a web dashboard. [Live](https://maizai.vercel.app) |
+| [**DermaScan**](https://github.com/JohnnyPoks/dermascan) | Skin lesion classifier that highlights the regions behind each prediction. [Live](https://pokamjohn-dermascan.hf.space) |
+| [**Image Lab**](https://github.com/JohnnyPoks/image-lab) | Image generation plus photo enhancement and upscaling. [Live](https://huggingface.co/spaces/PokamJohn/image-lab) |
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**machine-learning-and-computer-vision**](https://github.com/JohnnyPoks/machine-learning-and-computer-vision) | Face verification (ResNet18 + LFW, ROC/AUC/EER), preprocessing & feature engineering | Python · PyTorch · scikit-learn · Colab |
-| [**E-Com-Website**](https://github.com/JohnnyPoks/E-Com-Website) | Full-stack e-commerce — auth, product listings, cart, checkout | React · Express · Django REST |
-| [**text-normalization-fst**](https://github.com/JohnnyPoks/text-normalization-fst) | FST text normalization — 0% WER on test cases | Python · Pynini |
-| [**Simple-React-Dashboard**](https://github.com/JohnnyPoks/Simple-React-Dashboard) | Admin dashboard — Redux-Saga, glass-morphism UI — [Live Demo](https://simple-react-dashboard.web.app) | React · TypeScript · Tailwind |
-| [**Chat-App**](https://github.com/JohnnyPoks/Chat-App) | Real-time messaging with WebSocket | React · Node.js · WebSocket |
-| [**Chat-Bot**](https://github.com/JohnnyPoks/Chat-Bot) | Conversational AI interface | React · Express · Google GenAI |
-| [**EMS-QR-code**](https://github.com/JohnnyPoks/EMS-QR-code) | Event management with QR code check-in | TypeScript · React |
-| [**Spam-Email-Filters-**](https://github.com/JohnnyPoks/Spam-Email-Filters-) | Spam classifier (Random Forest + SVM) | Python · scikit-learn · Jupyter |
+**More**
 
----
-
-## 🔒 What I've Built (Private Repositories)
-
-These represent the bulk of my engineering work. They aren't public, but the systems are real and deployed.
-
-| Domain | What I Built | Stack |
-|--------|-------------|-------|
-| 🛒 **Marketplace** | Multi-tenant seller platform with Stripe payments, image-search pipeline (pgvector), multi-language (EN/FR), dispute resolution — [markpedia.com](https://markpedia.com) | Next.js · Django · Celery · AWS S3/SQS/Bedrock · PostgreSQL |
-| 📚 **Education** | Learning platform with admin dashboard, content moderation, and mobile app — [mybrainboostapp.com](https://mybrainboostapp.com) | NestJS · Next.js 16 · React Native · Prisma · PostgreSQL · Docker · AWS |
-| 🛍️ **E-commerce** | Product catalog, image pipeline, rate-limited API with Swagger docs | NestJS · Next.js 16 · Prisma · Cloudinary · PostgreSQL |
-| 📈 **Trading Automation** | Automated trading bot reading real-time Telegram signals, multi-account risk management, live dashboard | FastAPI · React · MongoDB · Docker · Telegram API |
-| 🧠 **Mental Health App** | Cross-platform mobile app with AI chat powered by Google Gemini | Express · React Native (Capacitor) · Gemini API · Firebase |
-| 🍽️ **Restaurant System** | Real-time order tracking across desktop and web clients | Express · MongoDB · Socket.io · WebSocket |
-| 🎤 **Conference Platform** | Attendee registration, mobile money payments, ambassador leaderboard — [thrive-18f2d.web.app](https://thrive-18f2d.web.app) | Express · Firebase · Fapshi API |
-| 🎨 **Design Showcase** | 3D product mockups and admin catalog for a screen-printing business — [nansdesigno.web.app](https://nansdesigno.web.app) | React · Three.js · Vite · Firebase |
-| 🏗️ **Microservice UIs** | Module-federated frontend across auth, search, chat, and workspace modules | React · Vite · Docker · Module Federation |
-| 📸 **Face Verification** | Face verification pipeline on LFW dataset — ResNet18 embeddings, cosine baseline + logistic classifier, ROC/AUC/EER evaluation | Python · PyTorch · scikit-learn · Google Colab |
+| Project | What it does |
+|---------|--------------|
+| [**machine-learning-and-computer-vision**](https://github.com/JohnnyPoks/machine-learning-and-computer-vision) | Face verification and computer vision work (ResNet18 and LFW) |
+| [**E-Com-Website**](https://github.com/JohnnyPoks/E-Com-Website) | Full stack online store with auth, cart and checkout |
+| [**text-normalization-fst**](https://github.com/JohnnyPoks/text-normalization-fst) | Text normalization for speech, zero errors on the test set |
+| [**Simple-React-Dashboard**](https://github.com/JohnnyPoks/Simple-React-Dashboard) | Admin dashboard with a clean UI. [Live](https://simple-react-dashboard.web.app) |
+| [**Chat-App**](https://github.com/JohnnyPoks/Chat-App) | Real time messaging over WebSocket |
+| [**Chat-Bot**](https://github.com/JohnnyPoks/Chat-Bot) | Chat assistant interface |
+| [**EMS-QR-code**](https://github.com/JohnnyPoks/EMS-QR-code) | Event check in with QR codes |
+| [**Spam-Email-Filters-**](https://github.com/JohnnyPoks/Spam-Email-Filters-) | Spam email classifier |
 
 ---
 
-## 📌 Currently Focused On
+## 🔒 Work I Cannot Show Publicly
 
-- Scaling backend services with **NestJS** and **microservices patterns**
-- Building cross-platform mobile apps with **React Native**
-- Deepening cloud infrastructure skills (**AWS**, **Docker**, **CI/CD**)
-- Integrating **LLMs** and **AI APIs** into production applications
+Most of what I build lives in private company and client repos, so here is the high level version:
+
+- **Marketplace.** A multi vendor online store with payments, visual search and dispute handling. Public site: [markpedia.com](https://markpedia.com)
+- **Education platform.** A learning product with an admin dashboard and a mobile app. [mybrainboostapp.com](https://mybrainboostapp.com)
+- **Trading automation.** A bot that reads live signals and manages trades, with its own control dashboard.
+- **Mental health app.** A cross platform mobile app with an AI chat assistant.
+- **Restaurant system.** Real time order tracking across desktop and web.
+- **Conference platform.** Registration, mobile money payments and an ambassador leaderboard. [thrive-18f2d.web.app](https://thrive-18f2d.web.app)
+- **Design showcase.** A 3D product customizer and catalog for a printing business. [nansdesigno.web.app](https://nansdesigno.web.app)
+
+---
+
+## 📌 Right Now
+
+I am mostly working on backend services with NestJS, mobile apps with React Native, cloud and CI/CD, and putting machine learning into real products.
 
 ---
 
 ## 🌐 Languages
 
-🇫🇷 French (native) · 🇬🇧 English (native)
+French and English, both fluent.
 
 ---
 

@@ -78,6 +78,7 @@ A few public ones, mostly AI and computer vision. Click through if you want to s
 
 | Project | What it does |
 |---|---|
+| [**237Sentinel**](https://github.com/JohnnyPoks/237sentinel-api) | Digital verification platform for Cameroon. Send a link, message, image, voice note or document and it tells you whether to trust it, in English or French. Multimodal analysis with a Gemini to Llama fallback chain. [Live](https://sentinel237cm.web.app) · [Web repo](https://github.com/JohnnyPoks/237sentinel-web) |
 | [**maizai**](https://github.com/JohnnyPoks/maizai) | On device maize disease detection with a mobile app and a web dashboard. [Live](https://maizai.vercel.app) |
 | [**DermaScan**](https://github.com/JohnnyPoks/dermascan) | Skin lesion classifier that highlights the regions behind each prediction. [Live](https://pokamjohn-dermascan.hf.space) |
 | [**Image Lab**](https://github.com/JohnnyPoks/image-lab) | Image generation plus photo enhancement and upscaling. [Live](https://huggingface.co/spaces/PokamJohn/image-lab) |

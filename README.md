@@ -7,7 +7,7 @@
 I build web and mobile apps, and I train the machine learning models that go inside them. My work runs from backend APIs and real time services to React and React Native frontends, with a good amount of computer vision along the way. A lot of what I build is private, so this page only shows part of it.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-johnnypoks.netlify.app-0A0A0A?style=flat-square&logo=netlify&logoColor=white)](https://johnnypoks.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-john--pokam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-pokam-75442a2a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-john--pokam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pokam-john)
 [![Email](https://img.shields.io/badge/Email-johnpokam95@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:johnpokam95@gmail.com)
 
 </div>
@@ -127,6 +127,6 @@ French and English, both fluent.
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-johnnypoks.netlify.app-0A0A0A?style=for-the-badge&logo=netlify&logoColor=white)](https://johnnypoks.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-pokam-75442a2a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pokam-john)
 
 </div>

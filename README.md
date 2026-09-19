@@ -20,7 +20,7 @@ I work as a full stack engineer and I also do machine learning. On the product s
 
 On the machine learning side I actually train and ship models, not just call an API. A few examples: an on device maize disease detector, a skin lesion classifier that shows the regions behind each prediction, image enhancement tools, and a face verification system.
 
-I hold a Bachelor in Computer Engineering and I am currently doing a Master of Engineering in Artificial Intelligence and Computer Vision, which is where most of my focus sits these days. I have worked on my own and inside teams at Lambda, Markpedia, Klapeers, Opuvia and Codexbase. I am fluent in French and English, and I write my documentation in both.
+I hold a Bachelor in Computer Engineering and recently completed a Master of Engineering in Artificial Intelligence and Computer Vision. I have worked on my own and inside teams at Lambda, Markpedia, Klapeers, Opuvia and Codexbase. I am fluent in French and English, and I write my documentation in both.
 
 **Certifications:** Product Management Basics, Enterprise Design Thinking (Practitioner and Co-Creator), Product-Led and Product Analytics, Enterprise Design Thinking Team Essentials for AI.
 
@@ -36,9 +36,9 @@ React, Next.js, React Native, Expo, Three.js, Tailwind, shadcn/ui
 
 **Backend and Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,bun,postgres,mongodb,mysql,sqlite,redis,firebase,supabase,prisma&theme=dark&perline=8" alt="backend and databases" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,python,django,fastapi,bun,postgres,mongodb,mysql,sqlite,redis,firebase,supabase,prisma&theme=dark&perline=8" alt="backend and databases" />
 
-NestJS, Express, Django, FastAPI, Node.js, REST and WebSockets, PostgreSQL, MongoDB, MySQL, Firebase, Prisma, Redis
+NestJS, Express, Spring Boot, Django, FastAPI, Node.js, Java, REST and WebSockets, PostgreSQL, MongoDB, MySQL, Firebase, Prisma, Redis
 
 **DevOps and Cloud**
 
@@ -87,6 +87,8 @@ A few public ones, mostly AI and computer vision. Click through if you want to s
 
 | Project | What it does |
 |---|---|
+| [**task-manager**](https://github.com/JohnnyPoks/task-manager) | Full stack task manager: Spring Boot API with JWT and MySQL, React and TypeScript frontend, Docker Compose and CI |
+| [**session-insight-cameroon-tms**](https://github.com/JohnnyPoks/session-insight-cameroon-tms) | Teaching management system for Cameroonian universities, React frontend with its own [TypeScript API](https://github.com/JohnnyPoks/session-insight-cameroon-tms-backend) |
 | [**machine-learning-and-computer-vision**](https://github.com/JohnnyPoks/machine-learning-and-computer-vision) | Face verification and computer vision work (ResNet18 and LFW) |
 | [**E-Com-Website**](https://github.com/JohnnyPoks/E-Com-Website) | Full stack online store with auth, cart and checkout |
 | [**text-normalization-fst**](https://github.com/JohnnyPoks/text-normalization-fst) | Text normalization for speech, zero errors on the test set |
@@ -114,7 +116,7 @@ Most of what I build lives in private company and client repos, so here is the h
 
 ## 📌 Right Now
 
-I am mostly working on my master's in AI and computer vision, backend services with NestJS, mobile apps with React Native, and putting machine learning into real products.
+Open to software engineering roles, remote or in Cameroon. These days I build backend services with Spring Boot and NestJS, React and React Native apps, and I keep putting machine learning into real products.
 
 ---
 
